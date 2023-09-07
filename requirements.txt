@@ -1,0 +1,11 @@
+PyMuPDF
+nougat-ocr
+"nougat-ocr[api]"
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+整个project是一个将PDF转换为文本信息的pipeline，运行trans_pdf_to_txt.py可以启动pipeline。现在需要完成文本的后处理部分，将OCR的文本结果清洗地更加干净。需要实现postprocess/post_process_api.py中的process函数，输入是一段OCR结果文本，输出这段文本的清洗结果，类型也是一段文本。
+

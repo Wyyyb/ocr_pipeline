@@ -1,0 +1,53 @@
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 图片缩略图
+._*
+
+# 重试文件
+.BSpotlight-V100
+.Trashes
+
+# 快速查找
+.fseventsd
+
+# 开发环境目录
+.vscode/
+.idea/
+
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Node.js / npm
+node_modules/
+npm-debug.log
+
+# Ruby
+*.gem
+*.rbc
+
+# Java
+*.class
+*.log
+*.ctxt
+
+# Backup & log files
+*.bak
+*.swp
+*.log
+
+# Others
+*.tmp
+*.temp
+*.o
+*.obj
+*.DS_Store?
+*.project
+*.dblite
+*.log.*
+*.pid.lock
