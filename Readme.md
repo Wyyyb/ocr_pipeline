@@ -5,9 +5,9 @@
 ## 运行
 
 要启动pipeline，请运行以下命令：
-\`\`\`bash
+```bash
 python trans_pdf_to_txt.py
-\`\`\`
+```
 
 ## 贡献
 
@@ -24,12 +24,12 @@ python trans_pdf_to_txt.py
 
 `post_process_api.py`中已经包含了单元测试，你可以通过以下命令直接运行单元测试：
 
-\`\`\`bash
+```bash
 python postprocess/post_process_api.py
-\`\`\`
+```
 
 同时，你也可以运行以下命令进行系统测试：
 
-\`\`\`bash
+```bash
 python trans_pdf_to_txt.py
-\`\`\`
+```
